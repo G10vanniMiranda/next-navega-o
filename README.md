@@ -2,4 +2,4 @@
 
 ##### Screens
 
-<img src="./screens/page1.png" alt=" />
+<img src="./screens/page1.png" alt="" />
