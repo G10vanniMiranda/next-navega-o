@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.nav-item{
+    @apply flex gap-2 justify-center items-center p-2 px-3 rounded-md 
+    opacity-80 hover:opacity-100 bg-zinc-950 hover:bg-green-600 duration-200
+}
+
+.flex-p-col{
+    @apply flex flex-col justify-center gap-2
+}
+
+.container{
+    @apply w-screen flex bg-blue-600
+    md:bg-red-600 md:justify-center md:items-center md:ml-5
+    lg:bg-green-600 lg:w-[1920]  
+}
