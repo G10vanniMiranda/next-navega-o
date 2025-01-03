@@ -1,0 +1,13 @@
+{
+    "categoria": [
+        { "id": 1, "nome": "eletronico", "descricao": "tvs, computadores e celulares" },
+        { "id": 2, "nome": "livros",     "descricao": "livros de infatil" },
+        { "id": 3, "nome": "roupas",     "descricao": "roupas de infatil" }
+    ],
+
+    "produto": [
+        { "id": 1, "nome": "eletronico", "descricao": "tvs, computadores e celulares" },
+        { "id": 2, "nome": "livros",     "descricao": "livros de infatil" },
+        { "id": 3, "nome": "roupas",     "descricao": "roupas de infatil" }
+    ]
+}
