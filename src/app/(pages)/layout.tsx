@@ -1,6 +1,9 @@
+import Nav from "@/components/Nav";
+
 export default function Layout( props: any ) {
     return(
-        <div>
+        <div className="">
+            <Nav />
             {props.children}
         </div>
     )

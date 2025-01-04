@@ -9,14 +9,14 @@ export default function Nav() {
                 <span>Home</span>
             </Link>
 
-            <Link href="/"  className="nav-item" >
+            <Link href="/produto"  className="nav-item" >
                 <IconPackage size={30} />
                 <span>Produto</span>
             </Link>
 
-            <Link href="/"  className="nav-item" >
+            <Link href="/categoria"  className="nav-item" >
                 <IconUser size={30} />
-                <span>Cliente</span>
+                <span>Cagetoria</span>
             </Link>
         </nav>
     )
